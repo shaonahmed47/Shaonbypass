@@ -10,13 +10,13 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ZiaRein/ZiaReinBypass"
+		"url": "https://github.com/ZiaRein/ZiaReinBypass/issues"
 	},
 	"keywords": [
 		"bot",
 		"facebook",
 		"projectmirai",
-		"messenger",
+		"ziarein",
 		"mirai",
 		"catalizcs",
 		"spermlord",
@@ -27,7 +27,7 @@
 	"bugs": {
 		"url": "https://github.com/ZiaRein/ZiaReinBypass/issues"
 	},
-	"homepage": "https://github.com/ZiaRein/ZiaReinBypass",
+	"homepage": "https://github.com/ZiaRein/ZiaReinBypass/issues",
 	"dependencies": {
 		"@miraipr0ject/assets": "",
 		"@replit/database": "^2.0.2",
