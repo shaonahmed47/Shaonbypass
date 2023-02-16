@@ -2,7 +2,7 @@
 	"name": "ZiaRein",
 	"version": "1.0.0",
 	"description": "A simple Facebook Messenger Bot By ZiaRein",
-	"main": "mirai.js",
+	"main": "ZiaRein.js",
 	"scripts": {
 		"start": "node index.js",
 		"login": "node login",
@@ -25,7 +25,7 @@
 	"author": "Zia Rein",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/LanceBarnes/HibikiBypass/issues"
+		"url": "https://github.com/ZiaRein/ZiaReinBypass/issues"
 	},
 	"homepage": "https://github.com/ZiaRein/ZiaReinBypass",
 	"dependencies": {
