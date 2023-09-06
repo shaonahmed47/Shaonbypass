@@ -1,7 +1,7 @@
 {
     "name": "SHAONBYPASSBOT",
     "version": "0.0.1",
-    "description": "Facebook Messenger Bot Mode By Shaon",
+    "description": "Facebook Messenger Bot Mode By Shaon Ahmed",
     "main": "SHAON.js",
     "scripts": {
         "start": "node index",
